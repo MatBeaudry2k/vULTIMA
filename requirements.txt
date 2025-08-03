@@ -1,4 +1,5 @@
-Flask==2.3.3
+Flask==2.3.2
+Flask-Cors==4.0.0
 pybaseball==2.2.7
 gunicorn==21.2.0
 pandas
