@@ -1,14 +1,10 @@
-setuptools>=65.0.0
-wheel
-pip>=23.1.2
-
 Flask==2.3.2
 Flask-Cors==4.0.0
-pybaseball==2.2.7
 gunicorn==21.2.0
+pybaseball==2.2.7
 pandas==2.0.3
 numpy==1.24.4
 requests==2.31.0
-lxml==4.9.3
 beautifulsoup4==4.12.2
+lxml==4.9.3
 html5lib==1.1
